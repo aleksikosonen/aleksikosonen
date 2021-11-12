@@ -1,18 +1,14 @@
-### Hello! 👋
+## Hello! 👋
 
-I'm Aleksi - Helsinki based coding enthusiast. Finding my passion in front end coding as well as some UI/UX design. Currently studying Communication and Information Technologies in Metropolia UAS majoring in Mobile Solutions.📱
+I'm Aleksi - Helsinki based coding enthusiast. Finding my passion in coding as well as some UI/UX design.
 
-<!--
-**aleksikosonen/aleksikosonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Communication and Information Technologies student in Metropolia UAS
+- 📱 Majoring in Mobile Solutions
+- 🌐 In 2021 I have gained knowledge about web development technologies
+-  Currently learning iOS development with Swift & SwiftUI
+- 🌄 Love to create wireframes and design graphics for projects
+- 🚴 Passionate about biking. Also ran my first half marathon in 2021 in sub 2 hours!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+[My portfolio](https://portfolio-b1638.web.app/)
+[Linkedin](https://www.linkedin.com/in/aleksi-kosonen-194643201/)
