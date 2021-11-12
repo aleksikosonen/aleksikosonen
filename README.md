@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm Aleksi - Helsinki based coding enthusiast. Finding my passion in front end coding as well as some UI/UX design. Currently studying Communication and Information Technologies in Metropolia UAS majoring in Mobile Solutions.📱
 
 <!--
 **aleksikosonen/aleksikosonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
