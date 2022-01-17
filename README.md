@@ -4,8 +4,8 @@
 
 - 🎓  Communication and Information Technologies student in Metropolia UAS
 - 📱  Majoring in Mobile Solutions
-- 🌐  In 2021 I have gained knowledge about web development technologies
--   Currently learning iOS development with Swift & SwiftUI
+- 🌐  In 2021 I gained knowledge about web development technologies
+- 📡  Currently learning Sensor Based Android Development
 - 🌄  Love to create wireframes and design graphics for projects
 - 🚴  Passionate about biking. Also ran my first half marathon in 2021 in sub 2 hours!
 
